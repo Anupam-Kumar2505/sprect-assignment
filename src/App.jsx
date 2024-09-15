@@ -1,5 +1,7 @@
 import "./App.css";
 import FAQ from "./components/FAQ";
+import Footer from "./components/Footer";
+
 import HowIsItDone from "./components/HowIsItDone";
 import Investor from "./components/Investor";
 import SearchPro from "./components/SearchPro";
@@ -13,6 +15,7 @@ function App() {
       <FAQ />
       <SearchPro />
       <Investor />
+      <Footer />
     </div>
   );
 }
