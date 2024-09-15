@@ -3,7 +3,10 @@ const Footer = () => {
     <main className="bg-[linear-gradient(86.51deg,#16222a,#3a6073)] h-full w-full ">
       <main className="mx-auto pt-[50px]  px-[15px] md:px-[100px]  xl:w-[1128px] ">
         <div className="mb-[50px]">
-          <img src="src/assets/logo_home.svg" className="mb-[26px] -ml-[6px]" />
+          <img
+            src="https://sprect.com/assets/images/logo_home.svg"
+            className="mb-[26px] -ml-[6px]"
+          />
           <p className="font-gtwalsheimRegular text-base text-white text-justify max-w-[500px]">
             sprect is building a global community of people to connect you with
             everyone quickly, easily and privately. join us in our mission to

@@ -6,7 +6,10 @@ const Investor = () => {
           our investors
         </h2>
         <div className="h-[287px]">
-          <img src="src/assets/sidd.png" className="mx-auto h-[300px]" />
+          <img
+            src="https://sprect.com/assets/images/sidd.png"
+            className="mx-auto h-[300px]"
+          />
           <h2 className="text-[30px] text-[#212529] font-medium font-gtwalsheimBold leading-6 mt-3">
             Siddharth Shetty
           </h2>

@@ -8,21 +8,21 @@ const HowIsItDone = () => {
         <section className="space-y-[30px] hidden xl:block ">
           <div className=" p-4 rounded-lg">
             <img
-              src="src/assets/search1.svg"
+              src="https://sprect.com/assets/images/search1.svg"
               alt="Search"
               className="h-[200px] w-full mx-auto"
             />
           </div>
           <div className=" p-4 rounded-lg ">
             <img
-              src="src/assets/search2.svg"
+              src="https://sprect.com/assets/images/search2.svg"
               alt="Schedule"
               className="h-[200px] mx-auto"
             />
           </div>
           <div className=" p-4 rounded-lg">
             <img
-              src="src/assets/search3.svg"
+              src="https://sprect.com/assets/images/search3.svg"
               alt="Connect"
               className="h-[200px] mx-auto"
             />

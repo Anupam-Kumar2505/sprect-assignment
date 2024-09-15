@@ -10,7 +10,7 @@ const WhyUs = () => {
             <div className="bg-white p-5 rounded-[18px] shadow hover:shadow-xl min-h-[335px] sm:min-h-64 max-w-[350px]">
               <div className=" items-center mb-4">
                 <div className="w-10 h-10 mb-[30px] rounded-full mr-3">
-                  <img src="../src/assets/nopayment.svg" />
+                  <img src="https://sprect.com/assets/images/nopayment.svg" />
                 </div>
                 <h3 className="font-medium text-[#212529] mb-[15px] font-gtwalsheimBold text-[17px]  sm:text-[26px]">
                   0 platform fee*
@@ -26,7 +26,7 @@ const WhyUs = () => {
             <div className="bg-white p-5 rounded-[18px] shadow hover:shadow-xl min-h-[335px] sm:min-h-64 max-w-[350px]">
               <div className=" items-center mb-4">
                 <div className="w-10 h-10 mb-[30px] rounded-full mr-3">
-                  <img src="src/assets/directory.svg" />
+                  <img src="https://sprect.com/assets/images/directory.svg" />
                 </div>
                 <h3 className="font-medium text-[#212529] mb-[15px] font-gtwalsheimBold  text-[17px]  sm:text-[26px]">
                   expansive directory
@@ -40,7 +40,10 @@ const WhyUs = () => {
             <div className="bg-white p-5 rounded-[18px] shadow hover:shadow-xl min-h-[335px] sm:min-h-64 max-w-[350px]">
               <div className=" items-center mb-4">
                 <div className="w-10 h-10 mb-[30px] rounded-full mr-3">
-                  <img src="src/assets/language.svg" className="h-full" />
+                  <img
+                    src="https://sprect.com/assets/images/language.svg"
+                    className="h-full"
+                  />
                 </div>
                 <h3 className="font-medium text-[#212529] mb-[15px] font-gtwalsheimBold  text-[17px]  sm:text-[26px]">
                   speak your language
@@ -58,7 +61,7 @@ const WhyUs = () => {
             <div className="bg-white p-5 rounded-[18px] shadow hover:shadow-xl min-h-[335px] sm:min-h-64 max-w-[350px]">
               <div className=" items-center mb-4">
                 <div className="w-10 h-10 mb-[30px] rounded-full mr-3">
-                  <img src="src/assets/sheild-done.svg" />
+                  <img src="https://sprect.com/assets/images/sheild-done.svg" />
                 </div>
                 <h3 className="font-medium text-[#212529] mb-[15px] font-gtwalsheimBold  text-[17px]  sm:text-[26px]">
                   end-to-end encryption
@@ -72,7 +75,7 @@ const WhyUs = () => {
             <div className="bg-white p-5 rounded-[18px] shadow hover:shadow-xl min-h-[335px] sm:min-h-64 max-w-[350px]">
               <div className=" items-center mb-4">
                 <div className="w-10 h-10 mb-[30px] rounded-full mr-3">
-                  <img src="src/assets/iconvideo.svg" />
+                  <img src="https://sprect.com/assets/images/iconvideo.svg" />
                 </div>
                 <h3 className="font-medium text-[#212529] mb-[15px] font-gtwalsheimBold  text-[17px]  sm:text-[26px]">
                   flexible meets
@@ -86,7 +89,7 @@ const WhyUs = () => {
             <div className="bg-white p-5 rounded-[18px] shadow hover:shadow-xl min-h-[335px] sm:min-h-64 max-w-[350px]">
               <div className=" items-center mb-4">
                 <div className="w-10 h-10 mb-[30px] rounded-full mr-3">
-                  <img src="src/assets/open_in_browser.svg" />
+                  <img src="https://sprect.com/assets/images/open_in_browser.svg" />
                 </div>
                 <h3 className="font-medium text-[#212529] mb-[15px] font-gtwalsheimBold  text-[17px]  sm:text-[26px]">
                   meet in browser
@@ -102,7 +105,7 @@ const WhyUs = () => {
             <div className="bg-white p-5 rounded-[18px] shadow hover:shadow-xl min-h-[335px] sm:min-h-64 max-w-[350px] w-full">
               <div className=" items-center mb-4">
                 <div className="w-10 h-10 mb-[30px] rounded-full mr-3">
-                  <img src="src/assets/pro-set.svg" />
+                  <img src="https://sprect.com/assets/images/pro-set.svg" />
                 </div>
                 <h3 className="font-medium text-[#212529] mb-[15px] font-gtwalsheimBold  text-[17px]  sm:text-[26px]">
                   quick dispute fixes
@@ -118,7 +121,7 @@ const WhyUs = () => {
             <div className="bg-white p-5 rounded-[18px] shadow hover:shadow-xl min-h-[335px] sm:min-h-64 max-w-[350px] w-full">
               <div className=" items-center mb-4">
                 <div className="w-10 h-10 mb-[30px] rounded-full mr-3">
-                  <img src="src/assets/securepayments.svg" />
+                  <img src="https://sprect.com/assets/images/thumb_up_alt.svg" />
                 </div>
                 <h3 className="font-medium text-[#212529] mb-[15px] font-gtwalsheimBold  text-[17px]  sm:text-[26px]">
                   secure payments
@@ -132,7 +135,7 @@ const WhyUs = () => {
             <div className="bg-white p-5 rounded-[18px] shadow hover:shadow-xl min-h-[335px] sm:min-h-64 max-w-[350px] w-full">
               <div className=" items-center mb-4">
                 <div className="w-10 h-10 mb-[30px] rounded-full mr-3">
-                  <img src="src/assets/thumb_up_alt.svg" />
+                  <img src="https://sprect.com/assets/images/thumb_up_alt.svg" />
                 </div>
                 <h3 className="font-medium text-[#212529] mb-[15px] font-gtwalsheimBold  text-[17px]  sm:text-[26px]">
                   no commitments
