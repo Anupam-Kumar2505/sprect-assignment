@@ -10,7 +10,7 @@ const WhyUs = () => {
             <div className="bg-white p-5 rounded-[18px] shadow hover:shadow-xl min-h-[335px] sm:min-h-64 max-w-[350px]">
               <div className=" items-center mb-4">
                 <div className="w-10 h-10 mb-[30px] rounded-full mr-3">
-                  <img src="src/assets/nopayment.svg" />
+                  <img src="/src/assets/nopayment.svg" />
                 </div>
                 <h3 className="font-medium text-[#212529] mb-[15px] font-gtwalsheimBold text-[17px]  sm:text-[26px]">
                   0 platform fee*
