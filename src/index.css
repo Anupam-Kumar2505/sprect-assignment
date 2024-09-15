@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "GTWalsheimPro-Bold";
+  src: url("/public/GTWalsheimProBold.woff2") format("woff2"),
+    url("/public/GTWalsheimProBold.woff") format("woff");
+
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GTWalsheimPro-Regular";
+  src: url("/public/GTWalsheimProRegular.woff2") format("woff2"),
+    url("/public/GTWalsheimProRegular.woff") format("woff");
+
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GTWalsheimPro-Medium";
+  src: url("/public/GTWalsheimPro-Medium.woff2") format("woff2"),
+    url("/public/GTWalsheimPro-Medium.woff") format("woff");
+
+  font-style: normal;
+  font-display: swap;
+}
