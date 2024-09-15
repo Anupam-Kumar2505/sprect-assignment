@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <main className="bg-[linear-gradient(86.51deg,#16222a,#3a6073)] h-full w-full ">
-      <main className="mx-auto pt-[50px]  px-[15px] md:px-[100px]  xl:w-[1128px] ">
+      <main className="mx-auto pt-[50px]  px-[15px] md:w-[754px]  xl:w-[1128px] ">
         <div className="mb-[50px]">
           <img
             src="https://sprect.com/assets/images/logo_home.svg"
@@ -93,7 +93,7 @@ const Footer = () => {
                 height="22"
                 decoding="async"
                 data-nimg="1"
-                src="src/assets/heart.svg"
+                src="https://sprect.com/assets/images/heart.svg"
                 className="text-transparent pt-[1px] mx-1"
               />
             </span>
