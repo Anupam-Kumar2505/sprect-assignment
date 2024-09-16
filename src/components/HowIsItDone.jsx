@@ -33,13 +33,13 @@ const HowIsItDone = () => {
             <div className="h-[60px] w-[60px] font-gtwalsheimRegular rounded-full bg-[linear-gradient(90deg,#ff512f,#f09819)] flex justify-center items-center text-[30px] text-white font-normal ">
               <span>01</span>
             </div>
-            <div className="absolute top-[10px] xl:top-[100px] w-[44px] h-[400px] xl:h-[296px] z-[-1] bg-[url('https://sprect.com/_next/static/media/before-one.914792d2.svg')] bg-no-repeat" />
+            <div className="absolute top-[10px] xl:top-[100px] w-[44px] h-[400px] xl:h-[296px] z-[-1] bg-['https://sprect.com/_next/static/media/before-one.914792d2.svg'] bg-no-repeat" />
           </div>
           <div className="  rounded-lg  flex justify-center  xl:items-center xl:h-[232px] h-[380px] relative">
             <div className="h-[60px] w-[60px] font-gtwalsheimRegular rounded-full bg-[linear-gradient(90deg,#ff512f,#f09819)] flex justify-center items-center text-[30px] text-white font-normal">
               <span>02</span>
             </div>
-            <div className="absolute top-[10px] xl:top-[100px] w-[44px] h-[400px] xl:h-[296px] z-[-1] bg-[url('https://sprect.com/_next/static/media/before-one.914792d2.svg')] bg-no-repeat" />
+            <div className="absolute top-[10px] xl:top-[100px] w-[44px] h-[400px] xl:h-[296px] z-[-1] bg-['https://sprect.com/_next/static/media/before-one.914792d2.svg'] bg-no-repeat" />
           </div>
           <div className="  rounded-lg  flex justify-center  xl:items-center h-[232px]">
             <div className="h-[60px] w-[60px] font-gtwalsheimRegular rounded-full bg-[linear-gradient(90deg,#ff512f,#f09819)] flex justify-center items-center text-[30px] text-white font-normal">
