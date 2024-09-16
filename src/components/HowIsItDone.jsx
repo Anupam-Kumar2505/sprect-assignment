@@ -30,20 +30,20 @@ const HowIsItDone = () => {
         </section>
         <section className="space-y-[30px] ">
           <div className="  rounded-lg  flex justify-center items-start  xl:items-center xl:h-[232px] h-[380px] relative ">
-            <div className="h-[60px] w-[60px] font-gtwalsheimRegular rounded-full bg-[linear-gradient(90deg,#ff512f,#f09819)] flex justify-center items-center text-[30px] text-white font-normal ">
+            <div className="z-[2] h-[60px] w-[60px] font-gtwalsheimRegular rounded-full bg-[linear-gradient(90deg,#ff512f,#f09819)] flex justify-center items-center text-[30px] text-white font-normal ">
               <span>01</span>
             </div>
             
             <img src="https://sprect.com/_next/static/media/before-one.914792d2.svg" className="absolute top-[10px] xl:top-[100px] w-[44px] h-[400px] xl:h-[296px] "/>
           </div>
           <div className="  rounded-lg  flex justify-center  xl:items-center xl:h-[232px] h-[380px] relative">
-            <div className="h-[60px] w-[60px] font-gtwalsheimRegular rounded-full bg-[linear-gradient(90deg,#ff512f,#f09819)] flex justify-center items-center text-[30px] text-white font-normal">
+            <div className="z-[2] h-[60px] w-[60px] font-gtwalsheimRegular rounded-full bg-[linear-gradient(90deg,#ff512f,#f09819)] flex justify-center items-center text-[30px] text-white font-normal">
               <span>02</span>
             </div>
             <img src="https://sprect.com/_next/static/media/before-one.914792d2.svg" className="absolute top-[10px] xl:top-[100px] w-[44px] h-[400px] xl:h-[296px] "/>
           </div>
           <div className="  rounded-lg  flex justify-center  xl:items-center h-[232px]">
-            <div className="h-[60px] w-[60px] font-gtwalsheimRegular rounded-full bg-[linear-gradient(90deg,#ff512f,#f09819)] flex justify-center items-center text-[30px] text-white font-normal">
+            <div className="z-[2] h-[60px] w-[60px] font-gtwalsheimRegular rounded-full bg-[linear-gradient(90deg,#ff512f,#f09819)] flex justify-center items-center text-[30px] text-white font-normal">
               <span>03</span>
             </div>
           </div>
