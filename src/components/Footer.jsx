@@ -83,7 +83,7 @@ const Footer = () => {
         </section>
         <footer className="flex flex-col lg:flex-row justify-between pt-5 pb-[30px] border-t-[1px] border-[#507689]">
           <p className="text-[#c1ccd1] mb-[15px]">© sprect</p>
-          <p className="flex mb-[15px]">
+          <p className="text-[#c1ccd1] flex mb-[15px]">
             made with
             <span>
               <img
