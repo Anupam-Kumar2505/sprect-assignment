@@ -22,7 +22,7 @@ const HowIsItDone = () => {
           </div>
           <div className=" p-4 rounded-lg">
             <img
-              src="https://sprect.com/assets/images/search3.svg"
+              src="../assets/search3.svg"
               alt="Connect"
               className="h-[200px] mx-auto"
             />
