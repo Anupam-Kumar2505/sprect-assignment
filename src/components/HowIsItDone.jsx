@@ -1,3 +1,5 @@
+import search3 from "../assets/search3.svg";
+
 const HowIsItDone = () => {
   return (
     <main className="mx-auto pt-[50px] pb-[100px] px-[8px] sm:px-[15px] md:w-[754px] xl:w-[1128px] bg-white ">
@@ -21,11 +23,7 @@ const HowIsItDone = () => {
             />
           </div>
           <div className=" p-4 rounded-lg">
-            <img
-              src="../assets/search3.svg"
-              alt="Connect"
-              className="h-[200px] mx-auto"
-            />
+            <img src={search3} alt="Connect" className="h-[200px] mx-auto" />
           </div>
         </section>
         <section className="space-y-[30px] ">
